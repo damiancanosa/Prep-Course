@@ -106,7 +106,7 @@ function esImpar(num) {
   return num%2===1;
 }
 
-function elevarAlCuadrado(num) {
+function elevarAlCuadrado(num) {gitgit
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
