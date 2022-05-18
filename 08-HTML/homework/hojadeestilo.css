@@ -9,9 +9,10 @@
                 height: 600px;
                 background: violet;
                 padding: 50px;
-                border: 0.5cm dashed black;
+                border: 10px dashed black;
             }
             #spanId
             {
                 margin: 50px;
+                font-size: 18px;
             }
