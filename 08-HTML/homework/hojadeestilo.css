@@ -16,3 +16,7 @@
                 margin: 50px;
                 font-size: 18px;
             }
+            body
+            {
+                background-image: url(bosque.jpg);
+            }
